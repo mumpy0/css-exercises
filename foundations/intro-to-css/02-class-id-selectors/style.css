@@ -1,1 +1,15 @@
 /* Add CSS Styling */
+.odd{
+    background-color: lightcoral; font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+.big{
+    font-size: 24px;
+}
+#one{
+    color: blue; font-size: 36px;
+}
+#two{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
